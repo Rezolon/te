@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b992aae-c3fc-4b3a-8397-40231cd36325" name="Changes" comment="API Completed2312">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_04_06_2024_10_58_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_04_06_2024_10_58__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/connect.js" beforeDir="false" afterPath="$PROJECT_DIR$/db/connect.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;steel-snake-sx&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a3ba5069-582f-4b81-93c6-d88b2fe9e8c7" />
+        <option name="url" value="https://github.com/Rezolon/PROF.MIXU.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2VhjINaZj4H3rVhCNfxCF4csVxV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.9.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.9.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/API ST&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;http.proxy&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.rcb.reactComponents" value="false" />
+        <entry key="com.haulmont.rcb.reactInspector" value="false" />
+        <entry key="com.haulmont.rcb.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\PROF.MIXU\PROF_API\controllers\crmApi" />
+      <recent name="C:\Users\Administrator\WebstormProjects\PROF.MIXU\PROF_API\assets" />
+      <recent name="C:\Users\Administrator\WebstormProjects\PROF.MIXU\PROF_API\controllers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\PROF.MIXU\PROF_API\controllers\crmApi" />
+      <recent name="C:\Users\Administrator\WebstormProjects\PROF.MIXU\PROF_API\controllers\profApi" />
+      <recent name="C:\Users\Administrator\WebstormProjects\PROF.MIXU\PROF_API\controllers\krnApi" />
+      <recent name="C:\Users\Administrator\WebstormProjects\PROF.MIXU\PROF_API\assets" />
+      <recent name="C:\Users\Administrator\WebstormProjects\PROF.MIXU\PROF_API" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start:dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start:dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b992aae-c3fc-4b3a-8397-40231cd36325" name="Changes" comment="" />
+      <created>1695295125953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695295125953</updated>
+      <workItem from="1695295127181" duration="4219000" />
+      <workItem from="1695632483620" duration="5805000" />
+      <workItem from="1695789512474" duration="4948000" />
+      <workItem from="1700461349912" duration="2311000" />
+      <workItem from="1700472724986" duration="1987000" />
+      <workItem from="1700540130705" duration="6751000" />
+      <workItem from="1700626076378" duration="6214000" />
+      <workItem from="1700712700647" duration="11210000" />
+      <workItem from="1700737167840" duration="5204000" />
+      <workItem from="1700799365513" duration="2492000" />
+      <workItem from="1700837319622" duration="274000" />
+      <workItem from="1701059606295" duration="13595000" />
+      <workItem from="1701165125795" duration="1426000" />
+      <workItem from="1701169228362" duration="1279000" />
+      <workItem from="1701343155339" duration="1977000" />
+      <workItem from="1701403728367" duration="2495000" />
+      <workItem from="1701663443909" duration="10000" />
+      <workItem from="1701663527569" duration="2393000" />
+      <workItem from="1701750242598" duration="1284000" />
+      <workItem from="1701835673074" duration="2165000" />
+      <workItem from="1701861665121" duration="599000" />
+      <workItem from="1701864399708" duration="628000" />
+      <workItem from="1701926266682" duration="2493000" />
+      <workItem from="1702012195783" duration="16000" />
+      <workItem from="1702021527625" duration="3803000" />
+      <workItem from="1702285372120" duration="10137000" />
+      <workItem from="1702362214760" duration="35000" />
+      <workItem from="1702365583250" duration="292000" />
+      <workItem from="1702366869953" duration="11000" />
+      <workItem from="1702373063918" duration="63000" />
+      <workItem from="1702378827837" duration="12937000" />
+      <workItem from="1702393595311" duration="1982000" />
+      <workItem from="1702458461312" duration="18497000" />
+      <workItem from="1702527159485" duration="11206000" />
+      <workItem from="1702616837351" duration="4073000" />
+      <workItem from="1702624221280" duration="12214000" />
+      <workItem from="1702880531532" duration="12455000" />
+      <workItem from="1703069098824" duration="718000" />
+      <workItem from="1703131914111" duration="12625000" />
+      <workItem from="1703156055351" duration="7834000" />
+      <workItem from="1703479272048" duration="5476000" />
+      <workItem from="1704317701452" duration="48000" />
+      <workItem from="1705294136344" duration="5911000" />
+      <workItem from="1705379798881" duration="1265000" />
+      <workItem from="1705466586374" duration="1337000" />
+      <workItem from="1705474368285" duration="2866000" />
+      <workItem from="1705550766567" duration="4386000" />
+      <workItem from="1705664420007" duration="404000" />
+      <workItem from="1705665380284" duration="119000" />
+      <workItem from="1705665782851" duration="3695000" />
+      <workItem from="1705906212216" duration="2736000" />
+      <workItem from="1705994675141" duration="10817000" />
+      <workItem from="1706070929301" duration="368000" />
+      <workItem from="1706104993792" duration="615000" />
+      <workItem from="1706156386500" duration="7437000" />
+      <workItem from="1706170922744" duration="1426000" />
+      <workItem from="1706265671068" duration="6465000" />
+      <workItem from="1706501568961" duration="18966000" />
+      <workItem from="1706588333206" duration="13539000" />
+      <workItem from="1706674739998" duration="8544000" />
+      <workItem from="1706761811148" duration="6286000" />
+      <workItem from="1706768326739" duration="25000" />
+      <workItem from="1706768652504" duration="15627000" />
+      <workItem from="1706857632951" duration="23478000" />
+      <workItem from="1707106928222" duration="13287000" />
+      <workItem from="1707202941371" duration="16072000" />
+      <workItem from="1707228473572" duration="7297000" />
+      <workItem from="1707285828201" duration="17241000" />
+      <workItem from="1707366513877" duration="12607000" />
+      <workItem from="1707711459117" duration="601000" />
+      <workItem from="1707798079297" duration="2896000" />
+      <workItem from="1707829079862" duration="6000" />
+      <workItem from="1707829099256" duration="139000" />
+      <workItem from="1707884832858" duration="163000" />
+      <workItem from="1707885042359" duration="592000" />
+      <workItem from="1707901104558" duration="128000" />
+      <workItem from="1707901249021" duration="332000" />
+      <workItem from="1707902290445" duration="798000" />
+      <workItem from="1707903194044" duration="1184000" />
+      <workItem from="1707978152635" duration="571000" />
+      <workItem from="1708317146257" duration="1766000" />
+      <workItem from="1708325570029" duration="671000" />
+      <workItem from="1708408350782" duration="2035000" />
+      <workItem from="1708419700692" duration="16000" />
+      <workItem from="1708434231514" duration="600000" />
+      <workItem from="1708942562565" duration="607000" />
+      <workItem from="1709027007189" duration="7401000" />
+      <workItem from="1709094235304" duration="2795000" />
+      <workItem from="1709613194670" duration="225000" />
+      <workItem from="1709613739563" duration="20000" />
+      <workItem from="1709702532746" duration="533000" />
+      <workItem from="1710841407304" duration="21414000" />
+      <workItem from="1710998993645" duration="36000" />
+      <workItem from="1711085399102" duration="42000" />
+      <workItem from="1711369592858" duration="1832000" />
+      <workItem from="1711437204971" duration="7324000" />
+      <workItem from="1711524211065" duration="21515000" />
+      <workItem from="1711599200725" duration="477000" />
+      <workItem from="1711627634409" duration="1902000" />
+      <workItem from="1711685727353" duration="1812000" />
+      <workItem from="1711702097689" duration="3874000" />
+      <workItem from="1711945351667" duration="1333000" />
+      <workItem from="1711946711172" duration="1371000" />
+      <workItem from="1711967950933" duration="109000" />
+      <workItem from="1712031983999" duration="20000" />
+      <workItem from="1712048224218" duration="6849000" />
+      <workItem from="1716800935367" duration="78000" />
+      <workItem from="1716801025557" duration="797000" />
+      <workItem from="1717480381374" duration="53000" />
+      <workItem from="1718191601014" duration="2124000" />
+      <workItem from="1718251839777" duration="1212000" />
+      <workItem from="1718278958863" duration="214000" />
+    </task>
+    <task id="LOCAL-00001" summary="Prof API">
+      <option name="closed" value="true" />
+      <created>1706698256096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706698256096</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Prof API PDF">
+      <option name="closed" value="true" />
+      <created>1707382694523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707382694523</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Prof API rzd">
+      <option name="closed" value="true" />
+      <created>1710847719955</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710847719955</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Prof API rzd2">
+      <option name="closed" value="true" />
+      <created>1710847998810</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710847998810</updated>
+    </task>
+    <task id="LOCAL-00005" summary="API Completed">
+      <option name="closed" value="true" />
+      <created>1710923271611</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710923271611</updated>
+    </task>
+    <task id="LOCAL-00006" summary="API Completed2312">
+      <option name="closed" value="true" />
+      <created>1717480393649</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717480393649</updated>
+    </task>
+    <task id="LOCAL-00007" summary="API Completed2312">
+      <option name="closed" value="true" />
+      <created>1718191610375</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718191610375</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Prof API" />
+    <MESSAGE value="Prof API PDF" />
+    <MESSAGE value="Prof API rzd" />
+    <MESSAGE value="Prof API rzd2" />
+    <MESSAGE value="API Completed" />
+    <MESSAGE value="API Completed2312" />
+    <option name="LAST_COMMIT_MESSAGE" value="API Completed2312" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="js.build_tools.npm">
+        <watch expression="request" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

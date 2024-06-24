@@ -1,0 +1,74 @@
+body{
+  background: url("src/assets/IMG_4834.PNG") no-repeat center;
+  background-size: cover;
+}
+.viem{
+  color: black;
+}
+.con{
+  display: flex;
+  flex-direction: column;
+  padding: 10px 40px 10px 40px;
+  font-family: 'Roboto', sans-serif;
+}
+.btn{
+  padding: 0 0 11px !important;
+  border-radius: 15px !important;
+}
+.pass{
+  padding: 0 0 11px !important;
+}
+.baner_logo{
+  width: 40em;
+  height: 30em;
+}
+.title{
+  color: black;
+  font-size: 2em;
+  margin: 0 !important;
+}
+.borber {
+  position: fixed;
+  top: 50%;
+  right: 7%  ;
+  transform: translateY(-50%);
+  display: flex;
+  max-width: 800px;
+  min-height: 300px;
+  float: right !important;
+  justify-content: space-between;
+  height: 600px;
+  padding: 40px;
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, .25);
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+
+  background-color: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(30px);
+}
+.main{
+  position: fixed;
+  top: 50%;
+  right: 7%  ;
+  transform: translateY(-50%);
+  display: flex;
+  max-width: 800px;
+  min-height: 300px;
+  float: right !important;
+  justify-content: space-between;
+  height: 350px;
+  padding: 40px;
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, .25);
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+
+  background-color: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(30px);
+}
+.card-footer {
+  font-size: 0.65em;
+  color: #446;
+}
+.form{
+  display: contents;
+}
